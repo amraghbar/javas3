@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: teal;
+
+}
+h1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    color: white;
+}
+.imgph{
+    width: 260px;
+    height: 158px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+table {
+    background-color: rgb(0, 0, 0);
+    color: red;
+    text-align: center;
+margin: auto;
+width: 90%;
+}
